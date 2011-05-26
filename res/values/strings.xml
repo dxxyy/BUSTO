@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BUSTO</string>
+    <string name="titleBusto">BUSTO</string>
+    
+    <string name="titleBusStopRequest">Bus stop request</string>
+    
+    <string name="hintText">Enter your bus stop here!</string>
+    <string name="buttonGetStops">Go get them</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="lib" path="/home/dan/workspace/Libs/joda-time-1.6.2/joda-time-1.6.2.jar"/>
+	<classpathentry kind="lib" path="/home/dan/workspace/Libs/httpcomponents-client-4.1.1/lib/httpcore-4.1.jar"/>
+	<classpathentry kind="lib" path="/home/dan/workspace/Libs/httpcomponents-client-4.1.1/lib/httpclient-4.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/dan/workspace/Libs/httpcomponents-client-4.1.1/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/dan/workspace/Libs/htmlcleaner-2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
